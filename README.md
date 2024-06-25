@@ -7,11 +7,8 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcio_len.dog)
 
-
-
-
 ![Marcio Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=marciocapendeli&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciocapendeli)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I use in my day:
 
@@ -24,3 +21,4 @@
     <img align="center" alt="Pshell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />   
     
 </div>
+
